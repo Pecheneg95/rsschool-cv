@@ -1,2 +1,2 @@
 # rsschool-cv
-repo for rsschool task
+https://pecheneg95.github.io/rsschool-cv/

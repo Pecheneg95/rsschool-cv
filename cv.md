@@ -1,8 +1,8 @@
-# CV
-
 # Artsiom Piachora
 
-# My Contact:
+## Junior Software Engineer
+
+## My Contact:
 
 - Phone: +375 25 520-06-83
 
@@ -10,45 +10,56 @@
 
 - GitHub: [Pecheneg95](https://github.com/Pecheneg95)
 
-# About Me
+- Telegram [@pecheneg95](https://t.me/pecheneg95)
 
-I am 27 years old, married, I have a daughter. I work in the construction industry as a pre-production engineer. During the time that I spent in this area, I realized that there will not be much growth in it and the stage of stagnation is already beginning. I have always liked everything related to mathematics, physics, algorithms and computers, in this regard, I decided to change my life path and move along the path of a front-end developer. I think my perseverance, determination, sociability and extraordinary mind will help me on this path.
+- LinkedIn [Artsiom_Piachora](https://www.linkedin.com/in/artsiom-piachora/)
 
-# Skills
+## About Me
 
-- HTML
+I'm junior software engineer. Сurrently I'm focused on front-end, but also I interested in back-end technologies. I'm motivated and ready to devote myself to career development. Also, i like to work in a team and passionated about learning new things. I'm fond of walking, books, anime and computer games.
 
-- CSS
+## Skills
 
-- JavaScript (Fundamentals)
+- HTML 4/5
 
-- Git/GitHub
+- CSS 4/5
 
-- AutoCAD, MathCAD
+- JavaScript 3/5
 
-# Code Examples
+- Git/GitHub 3/5
+
+- TypeScript 2/5
+
+- React 2/5
+
+- Webpack 1/5
+
+- Node.js 1/5
+
+- HTTP 1/5
+
+## Code Examples
 
 ```javascript
-function highAndLow(numbers) {
-  let array = numbers.split(" ");
-  return Math.max.apply(Math, array) + " " + Math.min.apply(Math, array);
+export default function shufleArray<T>(arr: T[]): T[] {
+  return arr.sort(() => Math.random() - 0.5);
 }
 ```
 
-# Education
+## Education
 
 - Polotsk State University
 
   - Faculty of Civil Engineering (graduated in 2017)
 
-# Military service
+## Military service
 
 - 228 separate electronic warfare regiment of the Armed Forces of the Republic of Belarus (graduated in 2021)
 
-# Languages
+## Languages
+
+- English - A2 (Pre-Intermediate)
 
 - Russian - native speaker
 
 - Belarusian - native speaker
-
-- English - A1 (I am developing in this direction)
